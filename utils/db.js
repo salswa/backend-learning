@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 /**
- * MongoDB atlas
+ * MongoDB Atlas
  * cluster is group of database
  * Provider: aws googlecloud azure
  * Region: Nearby location
