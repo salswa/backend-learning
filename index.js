@@ -15,7 +15,7 @@ dotenv.config();
 const app = express();
 const port = process.env.PORT || 4000;
 
-console.log("mera port", process.env.PORT);
+//console.log("mera port", process.env.PORT);
 
 /** Routes start with /  */
 app.get("/", (req, res) => {
